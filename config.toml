@@ -1,5 +1,10 @@
 baseurl = "http://joshuamckenty.github.io"
 languageCode = "en-us"
-title = "my new hugo site"
+title = "Cognition"
 publishdir = "./"
 theme = "hyde"
+copyright = "Copyright Joshua McKenty."
+
+[params]
+Description = "Juggling, Technology, Life."
+Copyright = "(c) Joshua McKenty, 2014."

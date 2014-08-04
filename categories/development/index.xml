@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-      <title>Development on my new hugo site </title>
+      <title>Development on Cognition </title>
       <generator uri="https://hugo.spf13.com">Hugo</generator>
     <link>http://joshuamckenty.github.io/categories/development/index.xml</link>
     <language>en-us</language>
     
-    
+    <copyright>Copyright Joshua McKenty.</copyright>
     <updated>Mon, 04 Aug 2014 19:22:29 UTC</updated>
     
     <item>
@@ -17,7 +17,20 @@
       <guid>http://joshuamckenty.github.io/post/about-hugo</guid>
       <description>
 
-&lt;h1 id=&#34;toc_0&#34;&gt;Why I Stopped Worrying and Loved the Web&lt;/h1&gt;
+&lt;h1 id=&#34;toc_0&#34;&gt;How I Learned to Stop Worrying and Love the (Static) Web&lt;/h1&gt;
+
+&lt;p&gt;I&amp;rsquo;m an early fan of the &lt;a href=&#34;http://www.aaronsw.com/weblog/000404&#34;&gt;Baked, Not Fried &lt;/a&gt;
+concept behind static web generators. But somehow, getting all the tools in place
+to run one myself seemed onerous. A simple &lt;code&gt;apt-get install mysql&lt;/code&gt; was always
+easier than the vaguely-mystical incantations required to get jekyll up and running.&lt;/p&gt;
+
+&lt;p&gt;Then again, there was my deep-seated prejudice against Ruby. (See my previous
+    trolling of the ruby community when I accused them of being singlehandedly
+    responsible for Global Warming.)&lt;/p&gt;
+
+&lt;p&gt;But with the emergence of &lt;a href=&#34;http://hugo.spf13.com&#34;&gt;Hugo&lt;/a&gt;, an elegant static site
+generator written in #Golang, I&amp;rsquo;ve been able to get over the line. Or maybe it
+was simply time that I had a blog again.&lt;/p&gt;
 </description>
     </item>
     
