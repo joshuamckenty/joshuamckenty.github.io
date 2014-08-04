@@ -3,12 +3,11 @@ Categories = ["Development", "GoLang"]
 Description = "Statically generate all the things"
 Tags = ["Development", "golang"]
 date = 2014-08-04T19:22:29Z
-title = "about hugo"
+title = "How I Learned to Stop Worrying and Love the (Static) Web"
 draft = "true"
 
 +++
 
-# How I Learned to Stop Worrying and Love the (Static) Web
 
 I'm an early fan of the [Baked, Not Fried ](http://www.aaronsw.com/weblog/000404)
 concept behind static web generators. But somehow, getting all the tools in place

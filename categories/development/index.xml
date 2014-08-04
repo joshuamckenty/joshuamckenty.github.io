@@ -10,16 +10,12 @@
     <updated>Mon, 04 Aug 2014 19:22:29 UTC</updated>
     
     <item>
-      <title>about hugo</title>
+      <title>How I Learned to Stop Worrying and Love the (Static) Web</title>
       <link>http://joshuamckenty.github.io/post/about-hugo</link>
       <pubDate>Mon, 04 Aug 2014 19:22:29 UTC</pubDate>
       
       <guid>http://joshuamckenty.github.io/post/about-hugo</guid>
-      <description>
-
-&lt;h1 id=&#34;toc_0&#34;&gt;How I Learned to Stop Worrying and Love the (Static) Web&lt;/h1&gt;
-
-&lt;p&gt;I&amp;rsquo;m an early fan of the &lt;a href=&#34;http://www.aaronsw.com/weblog/000404&#34;&gt;Baked, Not Fried &lt;/a&gt;
+      <description>&lt;p&gt;I&amp;rsquo;m an early fan of the &lt;a href=&#34;http://www.aaronsw.com/weblog/000404&#34;&gt;Baked, Not Fried &lt;/a&gt;
 concept behind static web generators. But somehow, getting all the tools in place
 to run one myself seemed onerous. A simple &lt;code&gt;apt-get install mysql&lt;/code&gt; was always
 easier than the vaguely-mystical incantations required to get jekyll up and running.&lt;/p&gt;
