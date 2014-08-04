@@ -10,9 +10,9 @@
   <title> Golang &middot; Cognition </title>
 
   
-  <link rel="stylesheet" href="http://cognition.ca/css/poole.css">
-  <link rel="stylesheet" href="http://cognition.ca/css/syntax.css">
-  <link rel="stylesheet" href="http://cognition.ca/css/hyde.css">
+  <link rel="stylesheet" href="http://localhost:1313/css/poole.css">
+  <link rel="stylesheet" href="http://localhost:1313/css/syntax.css">
+  <link rel="stylesheet" href="http://localhost:1313/css/hyde.css">
   <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=PT+Sans:400,400italic,700|Abril+Fatface">
 
   
@@ -20,7 +20,7 @@
   <link rel="shortcut icon" href="/favicon.ico">
 
   
-  <link href="http://cognition.ca/tags/golang/index.xml" rel="alternate" type="application/rss+xml" title="Cognition" />
+  <link href="http://localhost:1313/tags/golang/index.xml" rel="alternate" type="application/rss+xml" title="Cognition" />
 </head>
 
 <body>
@@ -37,6 +37,8 @@
     <ul class="sidebar-nav">
       <li><a href="/">Home</a> </li>
       
+        <li><a href="http://localhost:1313/about"> About </a></li>
+      
     </ul>
 
     <p>(c) Joshua McKenty, 2014.</p>
@@ -47,10 +49,13 @@
     <div class="content container">
   <ul class="posts">
       
-      <li><span><a href="http://cognition.ca/post/about-hugo">How I Learned to Stop Worrying and Love the (Static) Web</a><time class="pull-right post-list">Mon, Aug 4, 2014</h4></time></span></span></li>
+      <li><span><a href="http://localhost:1313/post/about-hugo">How I Learned to Stop Worrying and Love the (Static) Web</a><time class="pull-right post-list">Mon, Aug 4, 2014</h4></time></span></span></li>
       
   </ul>
     </div>
 
-  </body>
+  <script>document.write('<script src="http://'
+        + (location.host || 'localhost').split(':')[0]
+		+ ':1313/livereload.js?mindelay=10"></'
+        + 'script>')</script></body>
 </html>
