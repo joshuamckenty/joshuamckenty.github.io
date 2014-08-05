@@ -4,6 +4,7 @@ title = "Cognition"
 publishdir = "./"
 theme = "hyde"
 copyright = "Copyright Joshua McKenty."
+disqusShortname = "cognition-ca"
 
 [params]
 Description = "Juggling, Technology, Life."
