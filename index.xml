@@ -7,7 +7,59 @@
     <language>en-us</language>
     
     <copyright>Copyright Joshua McKenty.</copyright>
-    <updated>Mon, 04 Aug 2014 19:22:29 UTC</updated>
+    <updated>Tue, 05 Aug 2014 01:54:33 UTC</updated>
+    
+    <item>
+      <title>Projects</title>
+      <link>http://cognition.ca/projects</link>
+      <pubDate>Tue, 05 Aug 2014 01:54:33 UTC</pubDate>
+      
+      <guid>http://cognition.ca/projects</guid>
+      <description>
+
+&lt;h1 id=&#34;toc_0&#34;&gt;Projects&lt;/h1&gt;
+
+&lt;p&gt;Most of my projects fall within a few main themes:&lt;/p&gt;
+
+&lt;h2 id=&#34;toc_1&#34;&gt;OpenStack&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://openstack.org&#34;&gt;OpenStack.org&lt;/a&gt; : If you&amp;rsquo;re not familiar with it, you should be.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.pistoncloud.com&#34;&gt;Piston OpenStack&lt;/a&gt; : Turn-key OpenStack using math and magic.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://elkstack.org&#34;&gt;ElkStack.org&lt;/a&gt; : Monitoring openstack for fun and profit.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://refstack.org&#34;&gt;RefStack.org&lt;/a&gt; : Interoperability tools for the DefCore committee.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;toc_2&#34;&gt;Browser Things&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://elderbrowser.com&#34;&gt;ElderBrowser.com&lt;/a&gt; : Like reading glasses for the web.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;toc_3&#34;&gt;Social Infrastructure&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://hastwoparents.com&#34;&gt;HasTwoParents.com&lt;/a&gt; : An email tool for parents.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://minipact.com&#34;&gt;Minipact.com&lt;/a&gt; : API-first social infra for promises.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://blog.zeronetpositive.org/&#34;&gt;ZeroNetPositive.org&lt;/a&gt; : Rethinking corporate structures with friends.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;toc_4&#34;&gt;Miscellaneous&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Build packs for Cloud Foundry and steps for Wercker.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://afterstack.com&#34;&gt;AfterStack.com&lt;/a&gt; : Haven&amp;rsquo;t decided what this is yet ;)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;toc_5&#34;&gt;Defunct Projects&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;BountyUp.com : Like Kickstarter, but 5 years too early. Frozen by the SEC.&lt;/li&gt;
+&lt;li&gt;BuyLatr.com : Browser plugin for price change notifications. Sold it.&lt;/li&gt;
+&lt;li&gt;PatchMe.in : Never miss a conference call or dial a stupid conf ID again.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
     <item>
       <title>How I Learned to Stop Worrying and Love the (Static) Web</title>
