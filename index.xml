@@ -7,7 +7,49 @@
     <language>en-us</language>
     
     <copyright>Copyright Joshua McKenty.</copyright>
-    <updated>Tue, 05 Aug 2014 01:54:33 UTC</updated>
+    <updated>Wed, 06 Aug 2014 01:10:41 UTC</updated>
+    
+    <item>
+      <title>The Dead Pool Pledge</title>
+      <link>http://cognition.ca/post/dead-pool-pledge</link>
+      <pubDate>Wed, 06 Aug 2014 01:10:41 UTC</pubDate>
+      
+      <guid>http://cognition.ca/post/dead-pool-pledge</guid>
+      <description>
+
+&lt;p&gt;I love PaaS. Recently I&amp;rsquo;ve gone to great lengths to figure out a way to build
+applications using ONLY SaaS and PaaS platforms. I managed this with a mix of
+wercker, github, orchestrate.io and pivotal web services.&lt;/p&gt;
+
+&lt;p&gt;But with the commitment to any third-party platform, comes a certain kind of fear.&lt;/p&gt;
+
+&lt;p&gt;I&amp;rsquo;m a believer in open source. And I&amp;rsquo;m ALSO a believer in commercial software.
+As much as I believe in the rights and freedoms of the user, I also value the
+rights and freedoms of the developer - to license his or her work in the way that
+they see fit.&lt;/p&gt;
+
+&lt;p&gt;So here&amp;rsquo;s what I&amp;rsquo;m suggesting: a &amp;ldquo;Dead Pool Pledge&amp;rdquo;.&lt;/p&gt;
+
+&lt;p&gt;Add &lt;a href=&#34;https://github.com/freepile&#34;&gt;this github account&lt;/a&gt; to your private repositories
+as a collaborator. You can keep those accounts private, and your source code licensed under whatever terms
+you feel is appropriate, as long as your business/project/coop is a going concern.&lt;/p&gt;
+
+&lt;p&gt;But the day that your company ends up in the Crunchbase deadpool, my bot will
+republish your source code under ASLv2. Seem fair?&lt;/p&gt;
+
+&lt;p&gt;I know that if Wercker, Orchestrate.io and others adopted this, I would sleep a
+little better at night.&lt;/p&gt;
+
+&lt;h2 id=&#34;toc_0&#34;&gt;Caveats&lt;/h2&gt;
+
+&lt;p&gt;Okay, maybe we should try and contact you first - to find out if you&amp;rsquo;re attempting
+to sell off those assets to a company who has a legitimate intent to continue
+business operations.&lt;/p&gt;
+
+&lt;p&gt;And yes, this whole thing probably ought to have some sort of contract in place -
+maybe something that the SFLC or the EFF could draft up.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Projects</title>
