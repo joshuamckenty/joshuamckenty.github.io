@@ -4,7 +4,6 @@ Description = "Statically generate all the things"
 Tags = ["Development", "golang"]
 date = 2014-08-04T19:22:29Z
 title = "How I Learned to Stop Worrying and Love the (Static) Web"
-draft = "true"
 
 +++
 

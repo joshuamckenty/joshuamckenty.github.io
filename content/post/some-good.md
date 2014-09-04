@@ -4,6 +4,7 @@ Description = ""
 Tags = ["Development", "golang"]
 date = 2014-08-25T22:36:56Z
 title = "Somegood.org"
+draft = true
 
 +++
 
