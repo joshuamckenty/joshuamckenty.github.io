@@ -3,8 +3,7 @@ Categories = ["Development", "GoLang"]
 Description = ""
 Tags = ["Development", "golang"]
 date = 2014-08-25T22:36:56Z
-menu = "main"
-title = "some good"
+title = "Somegood.org"
 
 +++
 

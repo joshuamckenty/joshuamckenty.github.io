@@ -3,8 +3,7 @@ Categories = ["Development", "GoLang"]
 Description = ""
 Tags = ["Development", "golang"]
 date = 2014-09-04T19:54:09Z
-menu = "main"
-title = "canada source"
+title = "Liberty-Source"
 
 +++
 
