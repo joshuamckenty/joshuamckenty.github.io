@@ -8,7 +8,8 @@ title = "dotplan"
 
 +++
 
-Where in the world is Joshua McKenty?
+## Where in the world is Joshua McKenty?
+
  - October 13: Victoria
  - October 20: Korea and SF
  - October 27: Victoria
