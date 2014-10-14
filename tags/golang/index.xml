@@ -3,7 +3,7 @@
   <channel>
       <title>Golang on Cognition </title>
       <generator uri="https://hugo.spf13.com">Hugo</generator>
-    <link>http://cognition.ca/tags/golang/index.xml</link>
+    <link>http://cognition.ca/tags/golang/index.xml/</link>
     <language>en-us</language>
     
     <copyright>Copyright Joshua McKenty.</copyright>
@@ -11,10 +11,10 @@
     
     <item>
       <title>Liberty-Source</title>
-      <link>http://cognition.ca/post/canada-source</link>
+      <link>http://cognition.ca/post/canada-source/</link>
       <pubDate>Thu, 04 Sep 2014 19:54:09 UTC</pubDate>
       
-      <guid>http://cognition.ca/post/canada-source</guid>
+      <guid>http://cognition.ca/post/canada-source/</guid>
       <description>
 
 &lt;h2 id=&#34;toc_0&#34;&gt;tldr: Use equity warrants for open source trademark licenses.&lt;/h2&gt;
@@ -75,10 +75,10 @@ licensees.&lt;/p&gt;
     
     <item>
       <title>block chain</title>
-      <link>http://cognition.ca/post/block-chain</link>
+      <link>http://cognition.ca/post/block-chain/</link>
       <pubDate>Tue, 26 Aug 2014 22:01:58 UTC</pubDate>
       
-      <guid>http://cognition.ca/post/block-chain</guid>
+      <guid>http://cognition.ca/post/block-chain/</guid>
       <description>&lt;p&gt;Trying to understand the ecosystem of &amp;ldquo;Proof of Luck&amp;rdquo; based distributed systems.&lt;/p&gt;
 
 &lt;ul&gt;
@@ -98,10 +98,10 @@ licensees.&lt;/p&gt;
     
     <item>
       <title>The Dead Pool Pledge</title>
-      <link>http://cognition.ca/post/dead-pool-pledge</link>
+      <link>http://cognition.ca/post/dead-pool-pledge/</link>
       <pubDate>Wed, 06 Aug 2014 01:10:41 UTC</pubDate>
       
-      <guid>http://cognition.ca/post/dead-pool-pledge</guid>
+      <guid>http://cognition.ca/post/dead-pool-pledge/</guid>
       <description>
 
 &lt;p&gt;I love PaaS. Recently I&amp;rsquo;ve gone to great lengths to figure out a way to build
@@ -140,10 +140,10 @@ maybe something that the SFLC or the EFF could draft up.&lt;/p&gt;
     
     <item>
       <title>How I Learned to Stop Worrying and Love the (Static) Web</title>
-      <link>http://cognition.ca/post/about-hugo</link>
+      <link>http://cognition.ca/post/about-hugo/</link>
       <pubDate>Mon, 04 Aug 2014 19:22:29 UTC</pubDate>
       
-      <guid>http://cognition.ca/post/about-hugo</guid>
+      <guid>http://cognition.ca/post/about-hugo/</guid>
       <description>&lt;p&gt;I&amp;rsquo;m an early fan of the &lt;a href=&#34;http://www.aaronsw.com/weblog/000404&#34;&gt;Baked, Not Fried &lt;/a&gt;
 concept behind static web generators. But somehow, getting all the tools in place
 to run one myself seemed onerous. A simple &lt;code&gt;apt-get install mysql&lt;/code&gt; was always
