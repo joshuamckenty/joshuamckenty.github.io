@@ -7,12 +7,70 @@
     <language>en-us</language>
     
     <copyright>Copyright Joshua McKenty.</copyright>
-    <updated>Tue, 14 Oct 2014 12:11:26 PDT</updated>
+    <updated>Thu, 17 Sep 2015 20:13:09 AEST</updated>
+    
+    <item>
+      <title>On Behalf Of</title>
+      <link>http://cognition.ca/post/on-behalf-of/</link>
+      <pubDate>Thu, 17 Sep 2015 20:13:09 AEST</pubDate>
+      
+      <guid>http://cognition.ca/post/on-behalf-of/</guid>
+      <description>
+
+&lt;p&gt;The internet was invented by Vint Cerf.&lt;/p&gt;
+
+&lt;p&gt;But it was made usable by Marc Andreeson. And what he did was simple:&lt;/p&gt;
+
+&lt;p&gt;He turned it into a VCR.&lt;/p&gt;
+
+&lt;p&gt;Now, it seems deeply ironic to me that most of the folks reading this post have
+probably never used a VCR, although they&amp;rsquo;ve most certainly used the Back, Forward,
+Stop and Play buttons on a web browser.&lt;/p&gt;
+
+&lt;p&gt;It was a powerful metaphor, and it made it possible for nearly half of the world&amp;rsquo;s
+population to grapple with the experience of traversing a directed, cyclic graph.&lt;/p&gt;
+
+&lt;p&gt;And in much the same way that we floundered in the world of Gopher and Finger
+protocols before Marc&amp;rsquo;s insight of metaphor, we&amp;rsquo;re floundering in the early world
+of IoT.&lt;/p&gt;
+
+&lt;p&gt;We need a metaphor. And it needs to encapsulate a deceptively difficult concept:
+ - Agency.&lt;/p&gt;
+
+&lt;h2 id=&#34;toc_0&#34;&gt;Understanding Agency&lt;/h2&gt;
+
+&lt;p&gt;My refrigerator may someday be able to detect when the cream has gone bad, and
+order more - either from Amazon, or from some local grocery store delivery.&lt;/p&gt;
+
+&lt;p&gt;Quite literally, my fridge will be acting on my behalf - an agent, if you will.&lt;/p&gt;
+
+&lt;p&gt;It will authenticate itself with my home wifi network.&lt;/p&gt;
+
+&lt;p&gt;And again with the grocery service, with a payment provider, and possibly with
+an independent shipping or delivery service.&lt;/p&gt;
+
+&lt;p&gt;Likely, though, the software that actually &lt;em&gt;orders&lt;/em&gt; the milk, won&amp;rsquo;t be running
+on my fridge. Instead, it will be cloud-based, and acting &lt;em&gt;on behalf of&lt;/em&gt; my fridge,
+which is in turn acting on behalf of myself.&lt;/p&gt;
+
+&lt;h2 id=&#34;toc_1&#34;&gt;In Search of a Metaphor&lt;/h2&gt;
+
+&lt;p&gt;When I was young, I worked as an apprentice carpenter. Often, this included errands
+to the local hardware or lumber supply store. And usually, I was equipped for these
+errands with my boss&amp;rsquo;s credit card (as well as his truck).&lt;/p&gt;
+
+&lt;p&gt;Strictly speaking, proffering someone else&amp;rsquo;s credit card (and signing for it) is
+illegal, much the same as sharing the password or pin to your bank account. And yet,
+the image of a household robot, with an empty milk jug in one mechanical hand and
+a credit card in the other, is the best metaphor for delegated authentication that
+I can come up with. And it&amp;rsquo;s simply not good enough.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>dotplan</title>
       <link>http://cognition.ca/post/dotplan/</link>
-      <pubDate>Tue, 14 Oct 2014 12:11:26 PDT</pubDate>
+      <pubDate>Tue, 14 Oct 2014 12:11:26 -0700</pubDate>
       
       <guid>http://cognition.ca/post/dotplan/</guid>
       <description>
@@ -35,16 +93,22 @@
 &lt;li&gt;December 29: SF&lt;/li&gt;
 &lt;li&gt;Jan 5: Victoria&lt;/li&gt;
 &lt;li&gt;Jan 12: DC, Atlanta, Kansas City&lt;/li&gt;
-&lt;li&gt;Jan 19: Victoria&lt;/li&gt;
+&lt;li&gt;Jan 19: Victoria, Vancouver&lt;/li&gt;
 &lt;li&gt;Jan 26: SF, Detroit, Tampa,&lt;/li&gt;
 &lt;li&gt;Feb 2: Victoria, NYC&lt;/li&gt;
 &lt;li&gt;Feb 9: Victoria, SF&lt;/li&gt;
 &lt;li&gt;Feb 16: Victoria, SF&lt;/li&gt;
-&lt;li&gt;Feb 23: NYC, Montreal&lt;/li&gt;
-&lt;li&gt;Mar 2: Austin, Houston&lt;/li&gt;
-&lt;li&gt;Mar 9: Banff&lt;/li&gt;
-&lt;li&gt;Mar 16: Victoria&lt;/li&gt;
-&lt;li&gt;Mar 23: NYC, Cincinnati&lt;/li&gt;
+&lt;li&gt;Feb 23: DC, NYC, SF&lt;/li&gt;
+&lt;li&gt;Mar 2: Austin&lt;/li&gt;
+&lt;li&gt;Mar 9: Banff, DC, SF&lt;/li&gt;
+&lt;li&gt;Mar 16: Victoria, Vancouver&lt;/li&gt;
+&lt;li&gt;Mar 23: Victoria, Seattle&lt;/li&gt;
+&lt;li&gt;Mar 30: Victoria&lt;/li&gt;
+&lt;li&gt;Apr 6: DC, Cincinnati, Seattle, SF&lt;/li&gt;
+&lt;li&gt;Apr 13: Victoria, SF&lt;/li&gt;
+&lt;li&gt;Apr 20: Victoria&lt;/li&gt;
+&lt;li&gt;Apr 27: LA, SF&lt;/li&gt;
+&lt;li&gt;May 4: Victoria&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>

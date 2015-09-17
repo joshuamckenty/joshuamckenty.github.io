@@ -24,13 +24,19 @@ title = "dotplan"
  - December 29: SF
  - Jan 5: Victoria
  - Jan 12: DC, Atlanta, Kansas City
- - Jan 19: Victoria
+ - Jan 19: Victoria, Vancouver
  - Jan 26: SF, Detroit, Tampa,
  - Feb 2: Victoria, NYC
  - Feb 9: Victoria, SF
  - Feb 16: Victoria, SF
- - Feb 23: NYC, Montreal
- - Mar 2: Austin, Houston
- - Mar 9: Banff
- - Mar 16: Victoria
- - Mar 23: NYC, Cincinnati
+ - Feb 23: DC, NYC, SF
+ - Mar 2: Austin
+ - Mar 9: Banff, DC, SF
+ - Mar 16: Victoria, Vancouver
+ - Mar 23: Victoria, Seattle
+ - Mar 30: Victoria
+ - Apr 6: DC, Cincinnati, Seattle, SF
+ - Apr 13: Victoria, SF
+ - Apr 20: Victoria
+ - Apr 27: LA, SF
+ - May 4: Victoria
