@@ -1,4 +1,4 @@
-baseurl = "http://cognition.ca"
+baseurl = "https://cognition.ca"
 languageCode = "en-us"
 title = "Cognition"
 publishdir = "./"
