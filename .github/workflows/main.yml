@@ -22,7 +22,11 @@ jobs:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: actions/checkout@v2
 
+      - name: Checkout submodules
+        uses: textbook/git-checkout-submodule-action@2.1.1
+        # with:
+          # Set the --remote flag
+          # remote: # optional
+
       - name: Build Hugo
-        # You may pin to the exact commit or the version.
-        # uses: lowply/build-hugo@2985cea201059fe0c27cc35bff3bc7f4fd537763
         uses: lowply/build-hugo@v0.75.1
